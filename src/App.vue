@@ -4,7 +4,7 @@ import { RouterLink, RouterView } from 'vue-router'
 
 <template>
   <header>
-    BONJOUR PIASTIO
+    BONJOUR PIASTIO milay lay izy
   </header>
 
   <RouterView />
